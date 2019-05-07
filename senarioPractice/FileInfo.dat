@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="practice01.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/07/2019 09:25:50</Property>
+      <Property Name="RunDuration">00:00:16</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+</Entities>
